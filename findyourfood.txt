@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>
+            Find Your Food  
+        </title>
+    </head>
+    <body>
+        <header>
+            <h1>
+                save the penguins
+            </h1>
+        </header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="about.html">About</a>
+                </li>
+                <li>
+                    <a href="help.html">Help</a>
+                </li>
+            </ul>
+        </nav>
+        <secton>
+            <p>
+                Be the person who helps penguins from home! you can help penguins who are <a href="https://en.wikipedia.org/wiki/Antarctica">Antarctica</a>
+            </p>
+            <article>
+                <h2>
+                    gentoo
+                </h2>
+                <img src="gentoo.jpg">
+                <p>
+                    place holder text about gentoos
+                </p>
+            </article>
+            <article>
+                <h3>
+                  chinstraps  
+                </h3>
+                <p>
+                    placeholder text about chinstraps
+                </p>
+            </article>
+            <article>
+                <h4>
+                    delies
+                </h4>
+                <p>
+                    placeholder text about delies
+                </p>
+            </article>
+        </secton>
+    </body>
+</html>
